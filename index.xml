@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ICON.ML Blog</title>
+    <title>ic0n Blog</title>
     <link>https://ic0nml.github.io/</link>
-    <description>Recent content on ICON.ML Blog</description>
+    <description>Recent content on ic0n Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 May 2021 18:59:36 +0200</lastBuildDate><atom:link href="https://ic0nml.github.io/index.xml" rel="self" type="application/rss+xml" />
