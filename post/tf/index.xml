@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICON.ML Blog</title>
-    <link>https://ic0nml.github.io/</link>
+    <link>https://ic0nml.github.io/post/tf/</link>
     <description>Recent content on ICON.ML Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ic0nml.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ic0nml.github.io/post/tf/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
